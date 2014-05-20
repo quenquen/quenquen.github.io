@@ -51,14 +51,7 @@
 
 <h3>Blog Posts</h3>
 
-<p><ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul></p>
+<p><a class="cta-btn" href="{{ site.posts[0].url }}">Go to the post</a></p>
 
 <h3>
 <a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
