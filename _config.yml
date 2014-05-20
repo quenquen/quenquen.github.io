@@ -1,0 +1,12 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: Quen-Quen
+tagline: Tales of a Web Developer
+description: Web Development and Design
+paginate: 5
+author:
+  quenquen:
+    name: quenquen
+    url: http://quenquen.github.io
+    description: Web Development and Design
