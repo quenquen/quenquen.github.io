@@ -1,10 +1,11 @@
 ---
 published: true
-title: dsgn coder
+title: dsgn coder - Tales of a Web Developer
 layout: post
-tags: [coding web developer webdesign design]
+tags: [coding, web, developer, webdesign, design]
 categories: [Coding]
-permalink: dsgncoder
+permalink: dsgn-coder
+excerpt: Dsgn coder is a personal blog about web development!
 author: quenquen
 ---
 Dsgn coder is a *personal blog about web development* that I'm starting in 2014.
