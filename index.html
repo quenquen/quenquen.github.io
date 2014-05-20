@@ -49,6 +49,17 @@
 
 <p>With the use of good front-end practices complying with modern web standards, we will embrace on a journey of web knowledge.</p>
 
+<h3>Blog Posts</h3>
+
+<p><ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul></p>
+
 <h3>
 <a name="contact" class="anchor" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
 
