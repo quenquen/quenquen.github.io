@@ -2,8 +2,9 @@
 published: true
 title: Hello World!
 layout: post
-tags: [coding web developer webdesign design]
+tags: [coding, web, developer, webdesign, design]
 categories: [Coding]
+permalink: hello-world
 ---
 I’m a **BlackBerry enthusiast**, *front-end developer*, *web designer*, a creator of BerrySocialBr, Café com BlackBerry, Design Criativo, BBi Magazine, dsgn coder, a curator of BlackBerry Por Escolha particularly excited by Firefox OS.
 
