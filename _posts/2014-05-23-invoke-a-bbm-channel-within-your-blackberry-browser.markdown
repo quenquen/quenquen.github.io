@@ -4,6 +4,7 @@ title: Invoke a BBM Channel within your BlackBerry Browser
 layout: post
 tags: [coding, blackberry, bbm]
 categories: [Coding, BlackBerry]
+permalink: invoke-bbm-channel-on-browser
 ---
 A simple line of code to link a **BBM channel** on any website in order to invoke the Channel within your BlackBerry browser.
 
