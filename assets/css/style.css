@@ -126,8 +126,8 @@ video {
 body {
   font-family: 'PT Sans';
   font-weight: 400;
-  background: #ffffff;
-  color: #fff;
+  background: #3F3F3F;
+  color: #2b2b2b;
   font-size: 1em;
 }
 html,
@@ -282,11 +282,7 @@ h4 {
   width: 100%;
   max-height: 200px;
   height: 100%;
-  background: #202020 url(../img/background.jpg);
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: #202020;
 }
 .header .container {
   text-align: center;

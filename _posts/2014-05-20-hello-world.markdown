@@ -16,6 +16,6 @@ With the use of good front-end practices complying with modern web standards, we
 
 ## Get Connected
 
-*   [Twitter | Quen-Quen] (http://twitter.com/_quenquen)
-*   [Twitter | Dsgn Coder] (http://twitter.com/dsgncoder)
+*   [Twitter | Dsgn Coder](http://twitter.com/dsgncoder)
+*   [Twitter | Quen-Quen](http://twitter.com/_quenquen)
 *   BBM Channel: C003CC5EB

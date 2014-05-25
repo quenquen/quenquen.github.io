@@ -16,5 +16,5 @@ With the use of good front-end practices complying with modern web standards, we
 
 ## Get Connected
 
-*   [Twitter:] (http://twitter.com/dsgncoder)
+*   [Twitter](http://twitter.com/dsgncoder)
 *   BBM Channel: C003CC5EB
