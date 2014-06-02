@@ -4,9 +4,10 @@ title: Invoke a BlackBerry PIN within your BlackBerry Browser
 layout: post
 tags: [coding, blackberry, bbm]
 categories: [Coding, BlackBerry]
+excerpt: Simple line of code to link a BlackBerry PIN on any website!
 permalink: invoke-blackberry-pin-on-browser
 ---
-A simple line of code to link a BlackBerry PIN on any website in order to invoke the PIN contact within your BlackBerry browser.
+A simple line of code to link a **BlackBerry PIN** on any website in order to invoke the PIN contact within your BlackBerry browser.
 
 {% highlight html %}
 
