@@ -15,7 +15,7 @@ layout: default
     
     <div class="pagination">
       {% if paginator.next_page %}
-        <a class="pagination-item older" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left" title="new"></a>
+        <a class="pagination-item older" href="/page{{paginator.next_page}}">Old</a>
       {% else %}
         <span class="pagination-item older">Old</span>
       {% endif %}
@@ -23,7 +23,7 @@ layout: default
         {% if paginator.page == 2 %}
           <a class="pagination-item newer" href="/">New</a>
         {% else %}
-          <a class="pagination-item newer" href="/page{{paginator.previous_page}}"><i class="fa fa-arrow-right" title="new"></a>
+          <a class="pagination-item newer" href="/page{{paginator.previous_page}}">New</a>
         {% endif %}
       {% else %}
         <span class="pagination-item newer">New</span>
