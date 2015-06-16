@@ -4,6 +4,7 @@ title: Cross Platform Sharing Text to BBM
 layout: post
 tags: [coding, blackberry, bbm]
 categories: [Coding, BlackBerry]
+excerpt: Simple line of code for Sharing Text to a BBM contact within the browser or application.
 permalink: sharing-text-bbm-cross-platform
 ---
 A simple line of code for **Sharing Text** to a BBM Contact. The code opens BBM Contact picker for the user to select the contact or contacts.
