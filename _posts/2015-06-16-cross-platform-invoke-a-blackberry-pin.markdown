@@ -4,6 +4,7 @@ title: Cross Platform Invoke a BlackBerry PIN
 layout: post
 tags: [coding, blackberry, bbm]
 categories: [Coding, BlackBerry]
+excerpt: Simple line of code to invoke a BlackBerry PIN on Cross Platform browser and apps!
 permalink: invoke-blackberry-pin-cross-platform
 ---
 A simple line of code to link a **BlackBerry PIN** on any website in order to invoke the PIN contact within your BlackBerry browser.
