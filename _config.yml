@@ -1,5 +1,5 @@
 excerpt_separator: ""
-pygments: true
+rouge: true
 markdown: kramdown
 title: dsgn coder
 tagline: Tales of a Web Developer
